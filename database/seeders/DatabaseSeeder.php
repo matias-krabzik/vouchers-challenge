@@ -2,6 +2,7 @@
 
 namespace Database\Seeders;
 
+use App\Models\User;
 use App\Models\Voucher;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
@@ -16,9 +17,16 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
+        User::factory()->count(5)->create();
+        User::factory()->create([
+            "email" => "krabzik@gmail.com",
+            "password" => bcrypt("secret1234")
+        ]);
+    }
+
+    private function vouchers() {
         $vouchers = explode("\n", file_get_contents(base_path("database/seeders/vouchers.csv")));
         array_shift($vouchers);
-
         $this->command->getOutput()->writeln("<info>Vouchers</info>: Start seeding...");
         $output = $this->command->getOutput();
         $output->progressStart(count($vouchers));
