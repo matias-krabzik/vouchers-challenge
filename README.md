@@ -10,6 +10,7 @@
 4. Ejecutar <code>php artisan key:generate</code>
 5. Modificar el archivo .env agregando las variables <code>DB_DATABASE</code>, <code>DB_USERNAME</code> y <code>DB_PASSWORD</code>, <code>DB_PASSWORD</code> para la internacionalización.
 6. Ejecutar <code>php artisan migrate:fresh --seed</code>
+   1. Es importante que este agregada a las variables de entorno mysql para que el seed funcione.
 7. Ejecutar <code>php artisan serve</code>
 8. entrar a la Url http://localhost:8000.
 

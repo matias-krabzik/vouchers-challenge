@@ -17,10 +17,10 @@ return new class extends Migration
         $sql = base_path('database/migrations/tables.sql');
 
         $db = [
-            'username' => "vouchers_challenge",
-            'password' => "vouchers_challenge",
+            'username' => env('DB_USERNAME'),
+            'password' => env('DB_PASSWORD'),
             'host' => env('DB_HOST'),
-            'database' => "vouchers_challenge"
+            'database' => env('DB_DATABASE')
         ];
 
         exec("mysql --user={$db['username']} --password={$db['password']} --host={$db['host']} --database={$db['database']} < $sql");
