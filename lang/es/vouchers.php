@@ -43,6 +43,7 @@ return [
             "abg_net_amount" => "ABG Net Amount",
             "user" => "User",
             "create_date" => "Create Date",
+            "empty_results" => "No hay resultados para esta búsqueda."
         ]
     ]
 ];

@@ -28,6 +28,9 @@ CREATE TABLE IF NOT EXISTS `companies` (
     `active` TINYINT NOT NULL,
     `logo` VARCHAR(200) CHARACTER SET 'utf8mb4' COLLATE 'utf8mb4_unicode_ci' NULL DEFAULT NULL,
     `icon` VARCHAR(200) CHARACTER SET 'utf8mb4' COLLATE 'utf8mb4_unicode_ci' NULL DEFAULT NULL,
+    `created_at` TIMESTAMP NULL DEFAULT NULL,
+    `updated_at` TIMESTAMP NULL DEFAULT NULL,
+    `deleted_at` TIMESTAMP NULL DEFAULT NULL,
     PRIMARY KEY (`id`))
     ENGINE = InnoDB
     AUTO_INCREMENT = 4
@@ -67,15 +70,10 @@ CREATE TABLE IF NOT EXISTS `organizations` (
     `updated_at` TIMESTAMP NULL DEFAULT NULL,
     `deleted_at` TIMESTAMP NULL DEFAULT NULL,
     PRIMARY KEY (`id`),
-    INDEX `organizations_organization_type_id_foreign` (`organization_type_id` ASC) VISIBLE,
     INDEX `organizations_organization_parent_id_foreign` (`organization_parent_id` ASC) VISIBLE,
     CONSTRAINT `organizations_organization_parent_id_foreign`
     FOREIGN KEY (`organization_parent_id`)
     REFERENCES `organizations` (`id`)
-    ON DELETE CASCADE,
-    CONSTRAINT `organizations_organization_type_id_foreign`
-    FOREIGN KEY (`organization_type_id`)
-    REFERENCES `organization_types` (`id`)
     ON DELETE CASCADE)
     ENGINE = InnoDB
     AUTO_INCREMENT = 43
@@ -154,34 +152,7 @@ CREATE TABLE IF NOT EXISTS `bookings` (
     INDEX `Company` (`company_id` ASC) VISIBLE,
     INDEX `bookings_FK` (`user_id` ASC) VISIBLE,
     INDEX `bookings_booking_status_id_IDX` USING BTREE (`booking_status_id`) VISIBLE,
-    INDEX `organization_id` (`organization_id` ASC) VISIBLE,
-    CONSTRAINT `Booking_ibfk_1`
-    FOREIGN KEY (`residence_country_id`)
-    REFERENCES `countries` (`id`),
-    CONSTRAINT `Booking_ibfk_2`
-    FOREIGN KEY (`pickup_office_id`)
-    REFERENCES `offices` (`id`),
-    CONSTRAINT `Booking_ibfk_3`
-    FOREIGN KEY (`dropoff_office_id`)
-    REFERENCES `offices` (`id`),
-    CONSTRAINT `Booking_ibfk_4`
-    FOREIGN KEY (`pickup_country_id`)
-    REFERENCES `countries` (`id`),
-    CONSTRAINT `Booking_ibfk_5`
-    FOREIGN KEY (`dropoff_country_id`)
-    REFERENCES `countries` (`id`),
-    CONSTRAINT `Booking_ibfk_6`
-    FOREIGN KEY (`company_id`)
-    REFERENCES `companies` (`id`),
-    CONSTRAINT `bookings_FK`
-    FOREIGN KEY (`user_id`)
-    REFERENCES `users` (`id`),
-    CONSTRAINT `bookings_FK_1`
-    FOREIGN KEY (`booking_status_id`)
-    REFERENCES `booking_status` (`id`),
-    CONSTRAINT `bookings_ibfk_1`
-    FOREIGN KEY (`organization_id`)
-    REFERENCES `organizations` (`id`))
+    INDEX `organization_id` (`organization_id` ASC) VISIBLE)
     ENGINE = InnoDB
     AUTO_INCREMENT = 4014
     DEFAULT CHARACTER SET = utf8mb3;
@@ -196,6 +167,9 @@ CREATE TABLE IF NOT EXISTS `payment_file_status` (
                                                                   `id` INT NOT NULL AUTO_INCREMENT,
                                                                   `name` VARCHAR(50) NOT NULL,
     `display_order` INT NULL DEFAULT NULL,
+    `created_at` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    `updated_at` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    `deleted_at` TIMESTAMP NULL DEFAULT NULL,
     PRIMARY KEY (`id`))
     ENGINE = InnoDB
     AUTO_INCREMENT = 5
@@ -263,6 +237,9 @@ CREATE TABLE IF NOT EXISTS `voucher_status` (
                                                              `id` INT NOT NULL AUTO_INCREMENT,
                                                              `name` VARCHAR(50) NULL DEFAULT NULL,
     `display_order` INT NULL DEFAULT NULL,
+    `created_at` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    `updated_at` TIMESTAMP NULL DEFAULT NULL,
+    `deleted_at` TIMESTAMP NULL DEFAULT NULL,
     PRIMARY KEY (`id`))
     ENGINE = InnoDB
     AUTO_INCREMENT = 5

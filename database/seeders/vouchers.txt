@@ -1,0 +1,200 @@
+PP162311A	AV581290100006	Avis	LQ Representaciones	LQ Representaciones	Issued		Awaiting Payment	MONGE	JUANCARLOS	14830395CR6	0121133C	383.99	96	287.99	Poveda, Jazmin	Costa Rica	31-Oct-21
+PP902427A	AV768000100067	Avis	Global Marketing & Sales	Global Marketing & Sales	Issued	Past Due	-	VAZQUEZ	LEONEL	16257345MX6	0106632D	607.99	152	455.99	Sansores, Alberto	Mexico	31-Oct-21
+PP797409A	AV768000100521	Avis	eTravel Network E.I.R.L.	eTravel Network E.I.R.L.	Issued		Reported	TOLEDO	LUIS	16020398PE2	0173880D	459.12	137.74	321.38	Quispe, Hilda	Peru	31-Oct-21
+PP724180A	AV768000100067	Avis	Global Marketing & Sales	Global Marketing & Sales	Issued		Confirmed	MENDEZ GONZALEZ	JOSE CAMILO	16219088MX4	0106632D	668.25	167.06	501.19	Sansores, Alberto	Mexico	31-Oct-21
+PP826374A	AV581290100006	Avis	LQ Representaciones	LQ Representaciones	Issued		Awaiting Payment	CALVO	ALVARO	15804129CR5	0121133C	1592.97	398.24	1194.73	Poveda, Jazmin	Costa Rica	31-Oct-21
+PP978832A	AV768000100521	Avis	eTravel Network E.I.R.L.	eTravel Network E.I.R.L.	Issued		Reported	Coronado	GONZALO	16064654PE4	0173880D	557.09	167.13	389.96	Campodónico, Fernando	Peru	31-Oct-21
+NVR66761A	AV768000107419	Avis	LQ Representaciones	LQ Representaciones	Issued		Awaiting Payment	DANIEL	ABBY	15873943CR1	0101651P	508	0	508	Poveda, Jazmin	Costa Rica	31-Oct-21
+PP093177B	BU199520200007	Budget	eTravel Network E.I.R.L.	eTravel Network E.I.R.L.	Issued		Reported	QUELOPANA	CAROLINA	45914933PE1	96307805	600.42	180.13	420.29	Quispe, Hilda	Peru	31-Oct-21
+PP769532B	BU768000001919	Budget	Reditur	Reditur	Issued		Reported	Asturias	Alvaro	48498992GT3	0067336C	1029.98	308.99	720.99	Chinchilla, Oscar	El Salvador	31-Oct-21
+PP303808B	BU768000000325	Budget	Global Marketing & Sales	Global Marketing & Sales	Voided		-	MORA CUEVAS	LEOBARDO	48323871MX1	0018502C	3824.98	956.25	2868.73	Sansores, Alberto	Mexico	31-Oct-21
+PP221151A	AV768000108268	Avis	LT Rental Car Division	Travel Plus	Issued		Awaiting Payment	PACHECO	RAMONA	10258276pr0	40500821	585	146.25	438.75	Franceschini, Manuel	Puerto Rico	31-Oct-21
+PP192696A	AV578660100004	Avis	Promociones Lujor	Promociones Lujor	Issued		Awaiting Payment	LEDWON	CHRISTIAN	16243826EC4	0114380C	435	130.5	304.5	Gamboa, Denisse	Ecuador	31-Oct-21
+PP520580A	AV581290100006	Avis	LQ Representaciones	LQ Representaciones	Voided		-	CALVO	ALVARO	15804129CR5	0121133C	1622.67	405.67	1217	Poveda, Jazmin	Costa Rica	31-Oct-21
+PP794185A	AV581290100006	Avis	LQ Representaciones	Empretur	Issued		Awaiting Payment	Garcia	Carlos	16228425CR3	0121133C	556	139	417	Curtis, Sean	Costa Rica	31-Oct-21
+PP552675B	BU199520200007	Budget	eTravel Network E.I.R.L.	eTravel Network E.I.R.L.	Issued		Reported	GARCIA MONTERO	Oscar	48471768PE2	96307805	1237.49	371.25	866.24	Arce, Martha	Peru	30-Oct-21
+PP860245A	AV768000100521	Avis	eTravel Network E.I.R.L.	eTravel Network E.I.R.L.	Voided		-	SCHENONE	BRUNO	16187433PE3	0173880D	363.6	109.08	254.52	Quispe, Hilda	Peru	30-Oct-21
+NVR10085A	AV768000107419	Avis	LQ Representaciones	LQ Representaciones	Issued		Awaiting Payment	BARQUERO	MIGUEL	10082591CR1	0101651P	433	0	433	Poveda, Jazmin	Costa Rica	30-Oct-21
+NVR30264A	AV768000107419	Avis	LQ Representaciones	LQ Representaciones	Voided		-	DANIEL	ABBY	15873943CR1	0101651P	533.13	0	533.13	Poveda, Jazmin	Costa Rica	30-Oct-21
+PP229774A	AV768000100067	Avis	Global Marketing & Sales	Global Marketing & Sales	Voided		-	MENDEZ GONZALEZ	JOSE CAMILO	16219088MX4	0106632D	940	235	705	Sansores, Alberto	Mexico	30-Oct-21
+PP902354B	BU199520200007	Budget	eTravel Network E.I.R.L.	eTravel Network E.I.R.L.	Issued		Reported	TORRES	ALVARO	48463392PE5	96307805	809.34	242.8	566.54	Quispe, Hilda	Peru	30-Oct-21
+PP296477A	AV768000100067	Avis	Global Marketing & Sales	Global Marketing & Sales	Issued		Confirmed	BORRAYO URIBE	ESTEBAN	16168742MX2	0106632D	271.6	67.9	203.7	Sansores, Alberto	Mexico	30-Oct-21
+NVR95063A	AV768000108276	Avis	LT Rental Car Division	LT Rental Car Division	Issued		Awaiting Payment	ISONA	EDWIN D	15891548PR1	0108791Q	102.9	0	102.9	Morales, Liza	Puerto Rico	30-Oct-21
+PP657334A	AV768000108268	Avis	LT Rental Car Division	LT Rental Car Division	Issued		Confirmed	CANCEL	MARIA	14458711PR1	0108183Q	1782	445.5	1336.5	Morales, Liza	Puerto Rico	30-Oct-21
+PP725295B	BU768000005316	Budget	AWT - American Worldwide Travel	AWT - American Worldwide Travel	Issued		Reported	PASTOR	JUAN ANTONIO	48445849PE4	10648584	880.85	264.26	616.59	Zuloeta, Jhan	Peru	30-Oct-21
+PP048932B	BU768000000325	Budget	Global Marketing & Sales	Global Marketing & Sales	Voided		-	BORBOLLA	LUIS	48385020MX5	0018502C	600	150	450	User, GMS A	Mexico	30-Oct-21
+P0263601	BU768000001935	Budget	Viajes Alkasa	Viajes Alkasa	Issued		Reported	LOGRONO	OLGA	48461423DO3	92529555	374.4	-112.32	-262.08	Santelises, Ana	Dominican Republic	30-Oct-21
+PP810953B	BU199520300005	Budget	RFG Representaciones	RFG Representaciones	Issued		Awaiting Payment	ARDILA	LUIS MR	48456175CO5	76981170	261.6	78.48	183.12	Arango, Laura	Colombia	30-Oct-21
+PP622063A	AV768000106023	Avis	Reditur	Reditur	Issued		Awaiting Payment	VELASQUEZ	NELSON	13792995EL6	0186616M	861.26	258.38	602.88	Chinchilla, Oscar	El Salvador	30-Oct-21
+PP967358B	BU768000000325	Budget	Global Marketing & Sales	Global Marketing & Sales	Issued		Awaiting Payment	CUEVAS	JOSE FRANCISCO	47242666MX2	0018502C	102.4	25.6	76.8	Sansores, Alberto	Mexico	30-Oct-21
+PP494148B	BU768000001919	Budget	Reditur	Reditur	Voided		-	Asturias	ALVARO	48457382GT1	0067336C	1111.98	333.59	778.39	Chinchilla, Oscar	El Salvador	30-Oct-21
+PP911071A	AV768000100521	Avis	eTravel Network E.I.R.L.	eTravel Network E.I.R.L.	Issued		Reported	BARDALES	Percy	16046208PE3	0173880D	1031.39	309.42	721.97	Campodonico, Monica	Peru	30-Oct-21
+PP189827A	AV768000100067	Avis	Global Marketing & Sales	Global Marketing & Sales	Issued		Confirmed	VERGARA	FERNANDO	16199891MX1	0106632D	980.35	245.09	735.26	Sansores, Alberto	Mexico	30-Oct-21
+NVR52418A	AV768000108276	Avis	LT Rental Car Division	LT Rental Car Division	Issued		Awaiting Payment	BAEZ	SANTOS	11634579PR5	0108791Q	651.95	0	651.95	Cruz, Zailene	Puerto Rico	30-Oct-21
+PP683680B	BU768000001919	Budget	Reditur	Reditur	Voided		-	Asturias	Alvaro	48449572GT3	0067336C	999.98	299.99	699.99	Chinchilla, Oscar	El Salvador	30-Oct-21
+P0082501	BU768000001919	Budget	Reditur	Reditur	Voided		-	ASTURIAS	ALVARO	45672434GT3	0067336C	1027.02	308.11	718.91	Chinchilla, Oscar	El Salvador	30-Oct-21
+PP469133B	BU199520300005	Budget	RFG Representaciones	RFG Representaciones	Issued		Confirmed	CORREA	MARIA MRS	48414584CO1	76981170	1057.5	317.25	740.25	Lara, Paola	Colombia	30-Oct-21
+PP403624A	AV768000106882	Avis	Orinter Tour & Travel	Orinter Tour & Travel	Issued	Past Due	-	ROCHA	DE ARAUJO ROBERTO	16197421BR2	0165793N	137.52	41.26	96.26	Sanchez, Roberto	Brazil	30-Oct-21
+PP571891B	BU768000004681	Budget	LT Rental Car Division	LT Rental Car Division	Issued		Awaiting Payment	Roque	Melvin	48251183PR1	0108183Q	1012.5	253.13	759.37	Cruz, Zailene	Puerto Rico	30-Oct-21
+PP345752B	BU768000003519	Budget	Orinter Tour & Travel	Orinter Tour & Travel	Issued	Past Due	-	LIMA	CORDEIRO CARLO FELIP	48308638BR0	0074712D	411	102.75	308.25	Sanchez, Roberto	Brazil	30-Oct-21
+PP593337B	BU768000003519	Budget	Orinter Tour & Travel	Orinter Tour & Travel	Issued		Awaiting Payment	GOUVEA	GUILHERME	48184275BR6	0074712D	246.98	61.75	185.23	Sanchez, Roberto	Brazil	30-Oct-21
+PP222131B	BU768000003519	Budget	Orinter Tour & Travel	Orinter Tour & Travel	Voided		-	RIBEIRO	PEREIRA FAGNER	48205369BR2	0074712D	281.7	70.43	211.27	Sanchez, Roberto	Brazil	30-Oct-21
+PP530290B	BU768000003519	Budget	Orinter Tour & Travel	Orinter Tour & Travel	Issued		Awaiting Payment	NICOLETTI	RODRIGO LUIZ	48072027BR3	0074712D	130.6	39.18	91.42	Sanchez, Roberto	Brazil	30-Oct-21
+PP880737A	AV768000106882	Avis	Orinter Tour & Travel	Orinter Tour & Travel	Issued	Past Due	-	DUARTE	BADIN JOSE MARCOS	14898335BR4	0165793N	2064	516	1548	Sanchez, Roberto	Brazil	30-Oct-21
+PP669862A	AV768000106882	Avis	Orinter Tour & Travel	Orinter Tour & Travel	Issued	Past Due	-	GIORDANI	MARCOS	14879871BR6	0165793N	455.01	136.5	318.51	Sanchez, Roberto	Brazil	30-Oct-21
+PP173353B	BU768000003519	Budget	Orinter Tour & Travel	Orinter Tour & Travel	Issued	Past Due	-	PONTES	DE ARAUJO MARCELO	47501337BR2	0074712D	147.17	36.79	110.38	Sanchez, Roberto	Brazil	30-Oct-21
+NVR12933A	AV768000108276	Avis	LT Rental Car Division	Tripaso LLC	Issued		Awaiting Payment	Mercado	Angel	14673862PR0	0108791Q	178.32	0	178.32	Colon, Grace	Puerto Rico	30-Oct-21
+PP712438A	AV768000106882	Avis	Orinter Tour & Travel	Orinter Tour & Travel	Issued	Past Due	-	FALCAO	LUIS	14361527BR5	0165793N	289.81	86.94	202.87	Sanchez, Roberto	Brazil	30-Oct-21
+NVR33749A	AV768000108276	Avis	LT Rental Car Division	Tripaso LLC	Issued		Awaiting Payment	Ramos	Glorializ	16159717PR0	0108791Q	171.5	0	171.5	Colon, Grace	Puerto Rico	30-Oct-21
+NVR25071A	AV768000108276	Avis	LT Rental Car Division	Tripaso LLC	Issued		Awaiting Payment	Kramer	Alexandra	15245709PR3	0108791Q	299.22	0	299.22	Colon, Grace	Puerto Rico	30-Oct-21
+NVR15978A	AV768000108276	Avis	LT Rental Car Division	Tripaso LLC	Issued		Awaiting Payment	Ortiz	Vivian	16063851PR6	0108791Q	171.5	0	171.5	Colon, Grace	Puerto Rico	30-Oct-21
+NVR97357A	AV768000108276	Avis	LT Rental Car Division	Tripaso LLC	Issued		Awaiting Payment	Martinez	Eric	15347722PR5	0108791Q	171.5	0	171.5	Colon, Grace	Puerto Rico	30-Oct-21
+NVR59744A	AV768000108276	Avis	LT Rental Car Division	Tripaso LLC	Issued		Awaiting Payment	ROSADO	Ghislane	16133198PR4	0108791Q	171.5	0	171.5	Colon, Grace	Puerto Rico	30-Oct-21
+NVR34034A	AV768000108276	Avis	LT Rental Car Division	Tripaso LLC	Issued		Awaiting Payment	Rosado	Ghislane	16132928PR0	0108791Q	171.5	0	171.5	Colon, Grace	Puerto Rico	30-Oct-21
+NVR92297A	AV768000108276	Avis	LT Rental Car Division	Tripaso LLC	Issued		Awaiting Payment	Osorio	Glimer	16168354PR6	0108791Q	249.35	0	249.35	Colon, Grace	Puerto Rico	30-Oct-21
+NVR25084A	AV768000108276	Avis	LT Rental Car Division	Tripaso LLC	Issued		Awaiting Payment	Lopez	Wendy	16132688PR5	0108791Q	249.35	0	249.35	Colon, Grace	Puerto Rico	30-Oct-21
+PP105178B	BU199520200007	Budget	eTravel Network E.I.R.L.	eTravel Network E.I.R.L.	Issued		Reported	GARCIA	MARIO AGUSTIN	45733752PE1	96307805	1037.99	311.4	726.59	Arce, Martha	Peru	29-Oct-21
+PP358387B	BU768000005316	Budget	AWT - American Worldwide Travel	AWT - American Worldwide Travel	Issued		Reported	ROCCA	ORLANDO	48410492PE4	10648584	1694.72	508.42	1186.3	Zuloeta, Jhan	Peru	29-Oct-21
+P0263501	AV578790200005	Avis	General Sales Agent Jamaica Limited	General Sales Agent Jamaica Limited	Issued		Confirmed	GAYNOR	MICHELLE	16182583JM4	0157511K	922.74	230.69	692.05	Teape, Leslie	Jamaica	29-Oct-21
+PP244122A	AV768000100521	Avis	eTravel Network E.I.R.L.	eTravel Network E.I.R.L.	Issued		Reported	COOPER	MICHELLE	15996561PE0	0173880D	125.88	37.76	88.12	Quispe, Hilda	Peru	29-Oct-21
+PP967009B	BU768000002966	Budget	Promociones Lujor	Promociones Lujor	Issued		Awaiting Payment	MONTENEGRO	DORIS	48077240EC1	0007324D	598.49	149.62	448.87	Gamboa, Denisse	Ecuador	29-Oct-21
+PP747963B	BU199520200007	Budget	eTravel Network E.I.R.L.	eTravel Network E.I.R.L.	Issued		Reported	VARGAS	JORGE	48332085PE4	96307805	574.19	172.26	401.93	Quispe, Hilda	Peru	29-Oct-21
+PP191196A	AV768000108250	Avis	Ventura & Jesus	Ventura & Jesus	Voided		-	MARINHO	RODRIGO MESQUITA	15448010BR4	0108172Q	509.47	152.84	356.63	Rocha, Marcos	Brazil	29-Oct-21
+PP910880A	AV768000099855	Avis	Mobility Online Turismo Ltda	Mobility Online Turismo Ltda	Issued		-	DA	SILVA FERREIRA GIOVANI	15872880BR2	0159460C	558.92	167.68	391.24	Tonon, Michelle	Brazil	29-Oct-21
+PP030369A	AV768000099855	Avis	Mobility Online Turismo Ltda	Mobility Online Turismo Ltda	Issued		-	SOUTO	TAGLIAFERRI LEANDRO	15682913BR1	0159460C	82.25	20.56	61.69	Tonon, Michelle	Brazil	29-Oct-21
+PP731158A	AV768000099855	Avis	Mobility Online Turismo Ltda	Mobility Online Turismo Ltda	Issued		-	FLACH	MATTHIAS	15281615BR6	0159460C	210	52.5	157.5	Tonon, Michelle	Brazil	29-Oct-21
+PP391795B	BU768000000366	Budget	Mobility Online Turismo Ltda	Mobility Online Turismo Ltda	Issued		-	MAGNAGO	WESLLEY	47908069BR6	0020915C	144.9	36.23	108.67	Tonon, Michelle	Brazil	29-Oct-21
+PP950675B	BU768000000366	Budget	Mobility Online Turismo Ltda	Mobility Online Turismo Ltda	Issued		-	DO	NASCIMENTO MURILLO STE	48424465BR5	0020915C	381.45	95.36	286.09	Tonon, Michelle	Brazil	29-Oct-21
+NVR67077A	AV768000107419	Avis	LQ Representaciones	LQ Representaciones	Issued		Awaiting Payment	VALVERDE	DAVID	12037825CR2	0101651P	114.02	0	114.02	Poveda, Jazmin	Costa Rica	29-Oct-21
+PP247659B	BU768000001919	Budget	Reditur	Reditur	Issued		Awaiting Payment	SIERRA	MARIEPIERRE	48434799GT0	0067336C	542.7	162.81	379.89	Chinchilla, Oscar	El Salvador	29-Oct-21
+PP818860A	AV768000100067	Avis	Global Marketing & Sales	Global Marketing & Sales	Voided		-	NUNEZ NUNEZ	EDUARDO	16172710MX1	0106632D	108	27	81	User, GMS A	Mexico	29-Oct-21
+PP200185A	AV768000100067	Avis	Global Marketing & Sales	Global Marketing & Sales	Issued		Confirmed	ALVAREZ ZAVALA	ALBERTO	16165928MX2	0106632D	237.5	59.38	178.12	User, GMS A	Mexico	29-Oct-21
+PP669924B	BU768000004673	Budget	Ventura & Jesus	Uno Rent a Cars	Voided		-	ROCHA	MARCO ANTONIO	48425465BR4	0108172Q	297.1	74.28	222.82	Rother, Israel	Brazil	29-Oct-21
+PP834528A	AV768000106023	Avis	Reditur	Reditur	Issued		Awaiting Payment	Velasquez	Carlos	14438469GT3	0186616M	125.4	37.62	87.78	Chinchilla, Oscar	El Salvador	29-Oct-21
+PP095724A	AV581290100006	Avis	LQ Representaciones	LQ Representaciones	Issued		Awaiting Payment	MATTEY	CARLOS	15822964CR3	0121133C	1215	303.75	911.25	Lee, Francis	Costa Rica	29-Oct-21
+NVR90702A	AV768000107419	Avis	LQ Representaciones	LQ Representaciones	Issued		Awaiting Payment	CASTRO	CARLOS	15425907CR0	0101651P	330	0	330	Poveda, Jazmin	Costa Rica	29-Oct-21
+PP253374A	AV581290100006	Avis	LQ Representaciones	LQ Representaciones	Issued		Awaiting Payment	JIMENEZ	CHRISTIAN	10589495CR0	0121133C	394.99	98.75	296.24	Poveda, Jazmin	Costa Rica	29-Oct-21
+PP391111A	AV581290100006	Avis	LQ Representaciones	LQ Representaciones	Issued		Awaiting Payment	CARRANZA	LUIS	15981700CR0	0121133C	531	132.75	398.25	Lee, Francis	Costa Rica	29-Oct-21
+PP085878A	AV768000100067	Avis	Global Marketing & Sales	Global Marketing & Sales	Issued		Confirmed	DORANTES	CARLOS	16150723MX1	0106632D	427.8	106.95	320.85	User, GMS A	Mexico	29-Oct-21
+PP693816A	AV768000100067	Avis	Global Marketing & Sales	Global Marketing & Sales	Issued		Confirmed	DELGADO	ALEJANDRO	16160909MX2	0106632D	826.35	206.59	619.76	Sansores, Alberto	Mexico	29-Oct-21
+PP779902B	BU768000004442	Budget	LQ Representaciones	LQ Representaciones	Issued		Awaiting Payment	ESQUIVEL	CARLOS	46762796cr3	0040316E	518.99	129.75	389.24	Cordero, Lorena	Costa Rica	29-Oct-21
+PP640670A	AV768000100067	Avis	Global Marketing & Sales	Global Marketing & Sales	Issued		Confirmed	MARTINEZ	ALEJANDRA	14453824MX0	0106632D	439.2	109.8	329.4	User, GMS A	Mexico	29-Oct-21
+PP335228A	AV768000100067	Avis	Global Marketing & Sales	Global Marketing & Sales	Issued		Confirmed	HERRERA	MARIA DEL CARMEN	07467659MX3	0106632D	871.2	217.8	653.4	User, GMS A	Mexico	29-Oct-21
+PP025722A	AV768000106882	Avis	Orinter Tour & Travel	Orinter Tour & Travel	Voided		-	LIMA	THIAGO	16138391BR3	0165793N	1918.14	575.44	1342.7	Sanchez, Roberto	Brazil	29-Oct-21
+P0263101	AV578790200005	Avis	General Sales Agent Jamaica Limited	General Sales Agent Jamaica Limited	Issued		Confirmed	MORGAN	JOSCELYN WASHINGTO	15791009JM3	85776692	396.06	99.02	297.04	Teape, Leslie	Jamaica	29-Oct-21
+PP833632B	BU768000005225	Budget	Unisol / Olas del Caribe	Unisol / Olas del Caribe	Voided		-	MEJIA	LUIS	47136035DO2	0154814Q	1541.99	462.6	1079.39	Dominguez, Elizabeth	Dominican Republic	29-Oct-21
+PP301878B	BU768000001935	Budget	Viajes Alkasa	Viajes Alkasa	Voided		-	ALVAREZ	PERSIA	48429476DO4	96328875	198.72	59.62	139.1	Ruiz, Ian	Dominican Republic	29-Oct-21
+NVR07843A	AV768000108276	Avis	LT Rental Car Division	Tripaso LLC	Issued		Awaiting Payment	Cabrera	Tatiana	14262776PR3	0108791Q	448.74	0	448.74	Colon, Grace	Puerto Rico	29-Oct-21
+NVR87639A	AV768000108276	Avis	LT Rental Car Division	Tripaso LLC	Issued		Awaiting Payment	Crespo	Jonathan	14262385PR4	0108791Q	448.74	0	448.74	Colon, Grace	Puerto Rico	29-Oct-21
+NVR97414A	AV768000108276	Avis	LT Rental Car Division	Tripaso LLC	Voided		-	Mercado	Angel	14673862PR0	0108791Q	178.32	0	178.32	Colon, Grace	Puerto Rico	29-Oct-21
+NVR64309A	AV768000108276	Avis	LT Rental Car Division	Tripaso LLC	Issued		Awaiting Payment	Irizarry	Jaime	15964662PR0	0108791Q	263.6	0	263.6	Colon, Grace	Puerto Rico	29-Oct-21
+NVR19950A	AV768000108276	Avis	LT Rental Car Division	Tripaso LLC	Issued		Awaiting Payment	Soriano	Lidio	15515940PR6	0108791Q	349	0	349	Colon, Grace	Puerto Rico	29-Oct-21
+PP862522B	BU768000003519	Budget	Orinter Tour & Travel	Orinter Tour & Travel	Issued		Awaiting Payment	ZUCKI	EDSON CARLOS	48405818BR6	0074712D	1507.52	452.26	1055.26	Sanchez, Roberto	Brazil	29-Oct-21
+NVR30005A	AV768000107419	Avis	LQ Representaciones	LQ Representaciones	Issued		Awaiting Payment	GARITA	CARLOS	16149789CR5	0101651P	240	0	240	Cordero, Lorena	Costa Rica	29-Oct-21
+NVR33302A	AV768000108276	Avis	LT Rental Car Division	Tripaso LLC	Voided		-	ROLON	Yarila	15875944PR0	0108791Q	231.2	0	231.2	Colon, Grace	Puerto Rico	29-Oct-21
+PP272092A	AV768000108953	Avis	LT Rental Car Division	LT Travel CO	Voided		-	SANCHEZ	GERMAN	16162603PR2	0169256Q	1518.76	379.69	1139.07	Vasquez, Claudia	Puerto Rico	29-Oct-21
+PP450441B	BU768000003766	Budget	E-HTL Viagens Online	E-HTL Viagens Online	Issued	Past Due	-	DASILVAPACHECO	ROBSON	48426285BR5	0022201E	355.2	106.56	248.64	Mastro, Amanda	Brazil	29-Oct-21
+NVR22958A	AV768000108276	Avis	LT Rental Car Division	Bonilla Travel	Issued		Awaiting Payment	PEREZ	JOSE	16075234PR0	0108791Q	960	0	960	Gonzalez, Karen	Puerto Rico	29-Oct-21
+PP009925A	AV768000100067	Avis	Global Marketing & Sales	Global Marketing & Sales	Voided		-	MURAD	ANTONIO	15005583MX5	0106632D	276.4	69.1	207.3	User, GMS A	Mexico	29-Oct-21
+PP624833A	AV768000108268	Avis	LT Rental Car Division	LT Rental Car Division	Issued		Awaiting Payment	DIAZ VELEZ	MARCIAL	16154139PR1	0108183Q	872.77	261.83	610.94	Cruz, Zailene	Puerto Rico	29-Oct-21
+PP706083B	BU768000003766	Budget	E-HTL Viagens Online	E-HTL Viagens Online	Issued		-	NUNES DE CARVALHO	DIOGENES	48355105BR1	0022201E	576.71	144.18	432.53	Mastro, Amanda	Brazil	29-Oct-21
+PP854277B	BU768000003766	Budget	E-HTL Viagens Online	E-HTL Viagens Online	Issued		-	VICTER	PEDRO	48350289BR1	0022201E	297.47	74.37	223.1	Mastro, Amanda	Brazil	29-Oct-21
+PP493750B	BU199520300005	Budget	RFG Representaciones	RFG Representaciones	Issued		Confirmed	FERNANDEZ	CESAR MR	48426241CO3	76981170	407.2	122.16	285.04	Lara, Paola	Colombia	29-Oct-21
+PP544106B	BU768000003766	Budget	E-HTL Viagens Online	E-HTL Viagens Online	Issued		-	NUNES DE CARVALHO	DIOGENES	48347242BR6	0022201E	390.34	97.59	292.75	Mastro, Amanda	Brazil	29-Oct-21
+PP039995A	AV581290100006	Avis	LQ Representaciones	LQ Representaciones	Issued		Awaiting Payment	IDIAQUEZ	FLAVIO	15367897CR6	0121133C	389.52	97.38	292.14	Lee, Francis	Costa Rica	29-Oct-21
+PP850270A	AV768000100067	Avis	Global Marketing & Sales	Global Marketing & Sales	Issued		Confirmed	FLORES BERNAL	MAURICIO JAVIER	16002643MX6	0106632D	784	196	588	Sansores, Alberto	Mexico	29-Oct-21
+PP726243A	AV768000107179	Avis	E-HTL Viagens Online	E-HTL Viagens Online	Issued		Confirmed	BELINI	CLEDORVINO	16095875BR5	0179045N	491.47	147.44	344.03	Mastro, Amanda	Brazil	29-Oct-21
+PP109987A	AV768000104051	Avis	Rentas y Servicios	Celebrate	Issued		Awaiting Payment	SCHMIDT	MARIA CRISTINA	15815701CL6	0173692i	1361.25	340.31	1020.94	Rodriguez, Ignacio	Chile	29-Oct-21
+NVR65620A	AV768000108276	Avis	LT Rental Car Division	Tripaso LLC	Issued		Awaiting Payment	Mercado	Jesus	15345570PR2	0108791Q	171.5	0	171.5	Colon, Grace	Puerto Rico	29-Oct-21
+PP416312A	AV581290100006	Avis	LQ Representaciones	Viajes Ejecutivos Mundiales	Issued		Awaiting Payment	VINCENTI	LEONARDO	16137670CR3	0121133c	588	147	441	Mata, Paula	Costa Rica	29-Oct-21
+PP913669A	AV768000106882	Avis	Orinter Tour & Travel	Orinter Tour & Travel	Issued	Past Due	-	BALDASSIN	MARIA CILENE	15078549BR3	0165793N	566.99	170.1	396.89	Sanchez, Roberto	Brazil	29-Oct-21
+PP541900A	AV768000100521	Avis	eTravel Network E.I.R.L.	eTravel Network E.I.R.L.	Voided		-	PEREZ	JUAN	16163767PE4	0173880D	747.2	224.16	523.04	Quispe, Hilda	Peru	29-Oct-21
+PP962879A	AV768000106882	Avis	Orinter Tour & Travel	Orinter Tour & Travel	Issued		-	MARINO	ROGERIO	16154419BR1	0165793N	1073.13	321.94	751.19	Sanchez, Roberto	Brazil	29-Oct-21
+PP241218A	AV560330100002	Avis	Unisol / Olas del Caribe	Unisol / Olas del Caribe	Issued		Reported	HERRERA SILVA	VICTOR RAFAEL	16075956DO1	92515640	536.91	134.23	402.68	Uceta, Miriam	Dominican Republic	29-Oct-21
+PP457100B	BU768000004681	Budget	LT Rental Car Division	LT Rental Car Division	Issued		Awaiting Payment	Sanchez	Jose M	47309878PR0	0108183Q	421.2	105.3	315.9	Cruz, Zailene	Puerto Rico	29-Oct-21
+PP150195A	AV768000100067	Avis	Global Marketing & Sales	Global Marketing & Sales	Issued		Confirmed	LUNA	FRANCISCO	16093377MX6	0106632D	230	57.5	172.5	Sansores, Alberto	Mexico	29-Oct-21
+PP211300B	BU768000004145	Budget	Rentas y Servicios	Kuality	Issued		Awaiting Payment	ROJAS	JUAN GERARDO	48073411CL1	0028932E	610.99	152.75	458.24	Ahumada, Alejandra	Chile	29-Oct-21
+P0262901	BU768000002008	Budget	Schuvar Tours	Schuvar Tours	Issued		Awaiting Payment	ARGUELLO	RENE	48424014NI2	0069436C	366	-109.8	-256.2	Flores, Gladys	Nicaragua	29-Oct-21
+PP970381B	BU768000005282	Budget	LT Rental Car Division	LT Travel CO	Issued		-	MIYAR	LUIS	48422503PR3	0062930E	1559.28	389.82	1169.46	Vasquez, Claudia	Puerto Rico	29-Oct-21
+NVR27097A	AV768000107419	Avis	LQ Representaciones	LQ Representaciones	Issued		Awaiting Payment	GONZALEZ	LUISGUILLERMO	11311118cr0	0101651P	238.32	0	238.32	Lee, Francis	Costa Rica	29-Oct-21
+PP478870B	BU768000004681	Budget	LT Rental Car Division	Bonilla Travel	Issued		Awaiting Payment	GARCIA BLANCO	JOSE	48423304PR6	40568076	2015.99	504	1511.99	Reyes, Yajaira	Puerto Rico	29-Oct-21
+PP407213A	AV768000104051	Avis	Rentas y Servicios	Celebrate	Issued		Awaiting Payment	BLANCO	LUIS	16050339CL4	0173692i	496.79	124.2	372.59	Gonzalez, Sandra	Chile	29-Oct-21
+NVR37699A	AV768000108276	Avis	LT Rental Car Division	LT Rental Car Division	Voided		-	VIGO	LUIS M	16066351PR0	0108791Q	376.55	0	376.55	Morales, Liza	Puerto Rico	29-Oct-21
+PP038351A	AV768000104051	Avis	Rentas y Servicios	Rentas y Servicios	Issued		Awaiting Payment	AMORTEGUI	RICARDO	13670809CL5	0173692I	881.99	220.5	661.49	Cruz, Estefania	Chile	29-Oct-21
+PP664967A	AV768000108268	Avis	LT Rental Car Division	Bonilla Travel	Issued		Awaiting Payment	CLAUDIO	JAMIE LEE	16155782PR6	40568076	346.4	86.6	259.8	Gonzalez, Karen	Puerto Rico	29-Oct-21
+NVR24480A	AV768000108276	Avis	LT Rental Car Division	LT Rental Car Division	Issued		Awaiting Payment	SINZ	EDWARD	16158261PR0	0108791Q	206.5	0	206.5	Cruz, Zailene	Puerto Rico	29-Oct-21
+PP399695A	AV768000100067	Avis	Global Marketing & Sales	Global Marketing & Sales	Issued		Confirmed	ARZATE LUNA	MARTIN INAKY	15018993MX3	0106632D	874.11	218.53	655.58	Sansores, Alberto	Mexico	29-Oct-21
+PP565991A	AV768000104051	Avis	Rentas y Servicios	Celebrate	Issued		Awaiting Payment	LABBE	FRANCISCO	16134582CL2	0173692i	544.04	136.01	408.03	Valenzuela, Jose Luis	Chile	29-Oct-21
+P0262801	AV768000100422	Avis	AllWorld SYT Corporation	AllWorld SYT Corporation	Issued		-	ESPINOSA	DANNY	16071222PA6	0170612D	229.68	57.42	172.26	Demian, Naim	Venezuela	29-Oct-21
+PP789604A	AV768000104051	Avis	Rentas y Servicios	Expantours	Issued		Awaiting Payment	AREVALO	CRISTIAN	16130171CL1	0173692I	890.99	222.75	668.24	Brignardello, Nicole	Chile	29-Oct-21
+PP603381A	AV768000104051	Avis	Rentas y Servicios	Rentas y Servicios	Voided		-	Valenzuela	Ricardo	15801864CL1	0173692I	540.67	135.17	405.5	Pacheco, Constanza	Chile	29-Oct-21
+PP296788B	BU199520200007	Budget	eTravel Network E.I.R.L.	eTravel Network E.I.R.L.	Issued		Reported	FREUNDT	ANGEL	47582034PE3	96307805	283.5	70.88	212.62	Quispe, Hilda	Peru	29-Oct-21
+NVR64698A	AV768000108276	Avis	LT Rental Car Division	LT Rental Car Division	Issued		Awaiting Payment	RODRIGUEZ	JOSE A	15722429PR2	0108791Q	432.5	0	432.5	Morales, Liza	Puerto Rico	29-Oct-21
+PP233567A	AV768000108250	Avis	Ventura & Jesus	Trade Tours Viagens LTDA	Issued		Reported	DASILVAFERREIRA	TALITAMRS	15185695BR0	0108172Q	99.4	24.85	74.55	Silva, Sidnei	Brazil	29-Oct-21
+PP817749B	BU768000003766	Budget	E-HTL Viagens Online	E-HTL Viagens Online	Issued	Past Due	-	SOUZA	RAPHAEL	48419287BR0	0022201E	1349.49	404.85	944.64	Mastro, Amanda	Brazil	29-Oct-21
+PP625703A	AV768000100067	Avis	Global Marketing & Sales	Global Marketing & Sales	Issued		Confirmed	IBANEZ SANCHEZ	JULIO	16100477MX1	0106632D	271.6	67.9	203.7	User, GMS A	Mexico	29-Oct-21
+PP807799A	AV768000100067	Avis	Global Marketing & Sales	Global Marketing & Sales	Issued		Confirmed	MARTINEZ BENITEZ	ARMANDO JAVIE	16090892MX6	0106632D	94.2	23.55	70.65	Sansores, Alberto	Mexico	29-Oct-21
+P0262701	BU768000001935	Budget	Viajes Alkasa	Viajes Alkasa	Issued		Reported	MONTESDEOCA	RAINIERO	48293138DO5	92529555	128	-32	-96	Santelises, Ana	Dominican Republic	29-Oct-21
+NVR58394A	AV768000107419	Avis	LQ Representaciones	LQ Representaciones	Voided		-	ZUNIGA	DANIEL	13716757cr5	0101651P	398.87	0	398.87	Cordero, Lorena	Costa Rica	29-Oct-21
+PP581004A	AV768000106023	Avis	Reditur	Reditur	Issued		Awaiting Payment	IRAHETA	JAIME	16051657EL6	0186616M	580	145	435	Chavez, Maritza	El Salvador	29-Oct-21
+PP731662A	AV578660100004	Avis	Promociones Lujor	Promociones Lujor	Issued		Awaiting Payment	ROMERO	EDUARDO	16148577EC4	0114380C	1176.51	294.13	882.38	Pita, Verónica	Ecuador	29-Oct-21
+PP473710A	AV768000108250	Avis	Ventura & Jesus	Trade Tours Viagens LTDA	Issued		Awaiting Payment	FONTESDEAZEVEDO	ALVARO JORGEMR	15913315BR5	0108172Q	457.6	114.4	343.2	Silva, Sidnei	Brazil	29-Oct-21
+PP893569A	AV768000108250	Avis	Ventura & Jesus	Trade Tours Viagens LTDA	Issued		Reported	FONTESDEAZEVEDO	ALVARO JORGEMR	15906702BR0	0108172Q	1031.84	257.96	773.88	Silva, Sidnei	Brazil	29-Oct-21
+P0262501	BU768000002008	Budget	Schuvar Tours	Schuvar Tours	Issued		Awaiting Payment	MEJIA	ROSA	48413975NI1	0069436C	1010.75	-303.23	-707.52	Flores, Gladys	Nicaragua	29-Oct-21
+NVR87716A	AV768000107419	Avis	LQ Representaciones	LQ Representaciones	Issued		Awaiting Payment	GOMEZ	RITA	06450801CR0	0101651P	240	0	240	Poveda, Jazmin	Costa Rica	29-Oct-21
+PP322604A	AV581290100006	Avis	LQ Representaciones	LQ Representaciones	Issued		Awaiting Payment	CALVO	EDUARDO	11293298cr2	0121133C	378	94.5	283.5	Cordero, Lorena	Costa Rica	29-Oct-21
+PP541716B	BU768000005225	Budget	Unisol / Olas del Caribe	Unisol / Olas del Caribe	Issued		Reported	STEFAN	RAMON	48351945DO5	0154814Q	1210.28	363.08	847.2	Uceta, Miriam	Dominican Republic	29-Oct-21
+PP870545A	AV581290100006	Avis	LQ Representaciones	LQ Representaciones	Issued		Awaiting Payment	BONILLA	RAUL	15079017CR2	0121133C	522	130.5	391.5	Cordero, Lorena	Costa Rica	29-Oct-21
+PP741656A	AV581290100006	Avis	LQ Representaciones	Viajes Ejecutivos Mundiales	Issued		Awaiting Payment	BRENES	GERSON	16086598CR3	0121133c	1097.99	274.5	823.49	Mata, Paula	Costa Rica	29-Oct-21
+NVR31601A	AV768000108276	Avis	LT Rental Car Division	LT Rental Car Division	Issued		Awaiting Payment	DEL VALLE	CARMEN	14741765PR3	0108791Q	250.63	0	250.63	Morales, Liza	Puerto Rico	29-Oct-21
+PP651569B	BU199520200007	Budget	eTravel Network E.I.R.L.	eTravel Network E.I.R.L.	Issued		Reported	GUERRERO	GINA	48322500PE2	96307805	378.9	113.67	265.23	Quispe, Hilda	Peru	29-Oct-21
+PP878461A	AV578660100004	Avis	Promociones Lujor	Promociones Lujor	Issued		-	JARAMILLO	JUAN PABLO	16138819ec4	0114380C	1379.03	344.76	1034.27	Mendez, Fátima	Ecuador	29-Oct-21
+PP493584B	BU199520300005	Budget	RFG Representaciones	RFG Representaciones	Issued		Awaiting Payment	RICAURTE	DANIEL MR	48402474CO1	76981170	1031.99	309.6	722.39	Arango, Laura	Colombia	29-Oct-21
+P0259201	BU199520200007	Budget	eTravel Network E.I.R.L.	eTravel Network E.I.R.L.	Voided		-	GUEVARA	MIGUEL	47674885EC6	96307805	356.4	106.92	249.48	Campodónico, Fernando	Peru	29-Oct-21
+PP234728B	BU768000004681	Budget	LT Rental Car Division	Bonilla Travel	Issued		Awaiting Payment	CRESPO	JEAN	48316715PR6	40568076	1241.99	310.5	931.49	Gonzalez, Karen	Puerto Rico	29-Oct-21
+NVR56596A	AV768000107419	Avis	LQ Representaciones	LQ Representaciones	Issued		Awaiting Payment	HERNANDEZ	LUISDIEGO	13985660CR3	0101651P	278	0	278	Poveda, Jazmin	Costa Rica	29-Oct-21
+PP695324A	AV768000106882	Avis	Orinter Tour & Travel	Orinter Tour & Travel	Voided		-	FERREIRA	JOAO MARCELO GRO	16070970BR6	0165793N	1516.99	455.1	1061.89	Sanchez, Roberto	Brazil	29-Oct-21
+PP365914B	BU768000002966	Budget	Promociones Lujor	Promociones Lujor	Issued		Awaiting Payment	ORDONEZ	SUSANA	44737666EC1	0007324D	366	91.5	274.5	Pita, Verónica	Ecuador	29-Oct-21
+PP127681A	AV768000108250	Avis	Ventura & Jesus	Ventura & Jesus	Issued		Awaiting Payment	MOREIRA DE LIMA KAIZER	CAIO CE	16138012BR2	0108172Q	225.02	56.26	168.76	Rocha, Marcos	Brazil	29-Oct-21
+PP067131B	BU768000004681	Budget	LT Rental Car Division	LT Rental Car Division	Issued		Awaiting Payment	GUZMAN	WILFREDO	47129868PR2	0108183Q	958.82	239.71	719.11	Cruz, Zailene	Puerto Rico	29-Oct-21
+PP863406A	AV768000108250	Avis	Ventura & Jesus	Trade Tours Viagens LTDA	Issued		Awaiting Payment	FONTESDEAZEVEDO	ALVARO JORGEMR	15907360BR0	0108172Q	507.99	127	380.99	Silva, Sidnei	Brazil	29-Oct-21
+PP800609A	AV581290100006	Avis	LQ Representaciones	LQ Representaciones	Issued		Awaiting Payment	LORIA	MARIELA	16082859CR2	0121133C	829.79	207.45	622.34	Poveda, Jazmin	Costa Rica	29-Oct-21
+PP226957B	BU768000001976	Budget	OfiHotel	OfiHotel	Voided		-	Alvarez	Victor	48361473CR6	0036680B	416.7	125.01	291.69	Bordallo, Ana Mari	Costa Rica	29-Oct-21
+NVR71013A	AV768000108276	Avis	LT Rental Car Division	Tripaso LLC	Issued		Awaiting Payment	Sierra	Yboan	13061545PR0	0108791Q	171.5	0	171.5	Colon, Grace	Puerto Rico	29-Oct-21
+PP709197B	BU199520300005	Budget	RFG Representaciones	RFG Representaciones	Issued		-	PRIETO	NATALIA MRS	48346818CO2	76981170	2826.25	847.88	1978.37	Lara, Paola	Colombia	29-Oct-21
+PP139596A	AV768000108250	Avis	Ventura & Jesus	Ventura & Jesus	Issued		-	MONTIBELLERLAVRATI	MAIARA	13767282BR4	0108172Q	1182.86	295.72	887.14	Rocha, Marcos	Brazil	29-Oct-21
+NVR08903A	AV768000108276	Avis	LT Rental Car Division	LT Rental Car Division	Issued		Awaiting Payment	Rosado	Lisllamary	13391021PR0	0108791Q	137.2	0	137.2	Colon, Grace	Puerto Rico	29-Oct-21
+PP140913A	AV768000104051	Avis	Rentas y Servicios	Kuality	Issued		Awaiting Payment	WIESNER	ALEX KURT WILHELM	15467385CL3	0173692I	1597.49	399.37	1198.12	Ahumada, Alejandra	Chile	29-Oct-21
+P9853501	BU768000003519	Budget	Orinter Tour & Travel	Orinter Tour & Travel	Voided		-	RODRIGUES	GOMES VANESSA	43281857BR3	0074712D	1607.89	401.97	1205.92	Sanchez, Roberto	Brazil	29-Oct-21
+NVR41654A	AV768000108276	Avis	LT Rental Car Division	Tripaso LLC	Issued		Awaiting Payment	Lebron	Ruben	15875163PR3	0108791Q	171.5	0	171.5	Colon, Grace	Puerto Rico	29-Oct-21
+PP662892A	AV768000104051	Avis	Rentas y Servicios	Rentas y Servicios	Voided		-	BRAITHWAITE	LUIS FELIPE	14019447CL1	0173692I	1376.99	344.25	1032.74	Pacheco, Constanza	Chile	29-Oct-21
+PP726146A	AV768000104051	Avis	Rentas y Servicios	Rentas y Servicios	Issued		Awaiting Payment	Maluk	Gustavo	14844815CL6	0173692I	238.68	59.67	179.01	Pacheco, Constanza	Chile	29-Oct-21
+PP725664B	BU768000004681	Budget	LT Rental Car Division	LT Rental Car Division	Issued		Awaiting Payment	LOSADA	CARLOS A	48312382PR6	0108183Q	1854.57	463.64	1390.93	Morales, Liza	Puerto Rico	28-Oct-21
+NVR24471A	AV768000108276	Avis	LT Rental Car Division	LT Rental Car Division	Issued		Awaiting Payment	RODRIGUEZ	JOSE	12880743PR1	0108791Q	188.6	0	188.6	Morales, Liza	Puerto Rico	28-Oct-21
+PP535792A	AV768000100521	Avis	eTravel Network E.I.R.L.	eTravel Network E.I.R.L.	Issued		Confirmed	Ricci	MAIA	13881531pe6	0173880D	800.78	240.23	560.55	Campodónico, Fernando	Peru	28-Oct-21
+PP323571A	AV768000100521	Avis	eTravel Network E.I.R.L.	eTravel Network E.I.R.L.	Issued		Confirmed	Ricci	RENZO	13879205pe4	0173880D	1799.1	539.73	1259.37	Campodónico, Fernando	Peru	28-Oct-21
+NVR03563A	AV768000108276	Avis	LT Rental Car Division	LT Rental Car Division	Issued		Awaiting Payment	RODRIGUEZ	GABRIEL	14046108PR6	0108791Q	464	0	464	Morales, Liza	Puerto Rico	28-Oct-21
+NVR06729A	AV768000108276	Avis	LT Rental Car Division	LT Rental Car Division	Issued		Awaiting Payment	COMULADA	JOSE LUIS	15638625PR2	0108791Q	278	0	278	Morales, Liza	Puerto Rico	28-Oct-21
+PP282692B	BU199520200007	Budget	eTravel Network E.I.R.L.	eTravel Network E.I.R.L.	Issued		Confirmed	Villar	Mirjia	48323216PE4	96307805	741.13	222.34	518.79	Arce, Martha	Peru	28-Oct-21
+PP719511B	BU768000000366	Budget	Mobility Online Turismo Ltda	Mobility Online Turismo Ltda	Issued		-	OLIVEIRA	VIEIRA RONERSON	48372810BR3	0020915C	699	209.7	489.3	Tonon, Michelle	Brazil	28-Oct-21
+PP909972B	BU768000000366	Budget	Mobility Online Turismo Ltda	Mobility Online Turismo Ltda	Issued		-	MORENO	RONALDO JOSE	47620039BR5	0020915C	426.52	106.63	319.89	Tonon, Michelle	Brazil	28-Oct-21
+PP054367A	AV768000099855	Avis	Mobility Online Turismo Ltda	Mobility Online Turismo Ltda	Issued		-	GOUVEA	NELSON	15439001BR4	0159460C	226.06	56.52	169.54	Tonon, Michelle	Brazil	28-Oct-21
+PP893902A	AV768000099855	Avis	Mobility Online Turismo Ltda	Mobility Online Turismo Ltda	Issued		-	AURIEMO	LEANDRA	16096781BR1	0159460C	116.67	29.17	87.5	Tonon, Michelle	Brazil	28-Oct-21
+9376401	AV581290100006	Avis	LQ Representaciones	LQ Representaciones	Issued		Awaiting Payment	PACHECO	ROLANDO	15093764CR0	77508896	650.25	-162.56	-487.69	Cordero, Lorena	Costa Rica	28-Oct-21
+PP562248B	BU199520200007	Budget	eTravel Network E.I.R.L.	eTravel Network E.I.R.L.	Issued		Confirmed	MARCHIG	GIANNINA	36254205PE1	96307805	812.25	243.68	568.57	Quispe, Hilda	Peru	28-Oct-21
+PP313950A	AV768000100067	Avis	Global Marketing & Sales	Global Marketing & Sales	Issued		Confirmed	LUJAMBIO FUENTES	MAURICIO	15982742MX6	0106632D	538.88	134.72	404.16	User, GMS A	Mexico	28-Oct-21
+PP225722A	AV768000100521	Avis	eTravel Network E.I.R.L.	eTravel Network E.I.R.L.	Voided		-	Bermudez	Karla	15986617PE3	0173880D	643.5	193.05	450.45	Campodónico, Fernando	Peru	28-Oct-21
+PP121383A	AV581290100006	Avis	LQ Representaciones	LQ Representaciones	Voided		-	BLANCO	MARIO	15976097CR4	0121133C	794.99	198.75	596.24	Poveda, Jazmin	Costa Rica	28-Oct-21
+P0262201	AV579200100009	Avis	Fidanque Hermanos e Hijos	Fidanque Hermanos e Hijos	Issued		Confirmed	MEIR	DALIA	02940494PA4	0114542C	780.29	195.07	585.22	Muñoz, Kathia	Panama	28-Oct-21
+PP090626B	BU768000002966	Budget	Promociones Lujor	Promociones Lujor	Voided		-	ORDONEZ	SANDRA	44660089EC5	0007324D	549	137.25	411.75	Pita, Verónica	Ecuador	28-Oct-21
+PP397389A	AV768000100067	Avis	Global Marketing & Sales	Global Marketing & Sales	Voided		-	DIAZ AGUIRRE	MONICA BERENICE	15670131MX1	0106632D	1579.99	395	1184.99	Sansores, Alberto	Mexico	28-Oct-21
+PP931906A	AV768000100067	Avis	Global Marketing & Sales	Global Marketing & Sales	Issued		Confirmed	HERRERA	RUBEN DARIO	15194845MX1	0106632D	395.4	98.85	296.55	Sansores, Alberto	Mexico	28-Oct-21
+PP506109A	AV768000100067	Avis	Global Marketing & Sales	Global Marketing & Sales	Issued		Confirmed	MATA FIERRO	CARMEN LETICIA	15826667MX3	0106632D	310.2	77.55	232.65	Sansores, Alberto	Mexico	28-Oct-21
+PP611677B	BU768000004145	Budget	Rentas y Servicios	Kuality	Issued		Awaiting Payment	VOGT	EVELYN	48357415CL1	0028932E	819.99	205	614.99	Contreras, Cecilia	Chile	28-Oct-21
+NVR94485A	AV768000108276	Avis	LT Rental Car Division	Tripaso LLC	Issued		Awaiting Payment	Rosso	Dalymar	14909881PR0	0108791Q	249.35	0	249.35	Colon, Grace	Puerto Rico	28-Oct-21
+NVR58560A	AV768000107419	Avis	LQ Representaciones	LQ Representaciones	Issued		Awaiting Payment	ARAGON	KATHERINE	15467220CR6	0101651P	220.75	0	220.75	Poveda, Jazmin	Costa Rica	28-Oct-21
+NVR41461A	AV768000108276	Avis	LT Rental Car Division	Tripaso LLC	Issued		Awaiting Payment	Camacho	Miguel	15455003PR4	0108791Q	263	0	263	Colon, Grace	Puerto Rico	28-Oct-21
+PP470761A	AV768000100521	Avis	eTravel Network E.I.R.L.	Repviajes	Voided		-	Campodonico	Fernando	16087436PE1	0173880D	1412.49	423.75	988.74	Campodonico, Juan Fernando	Peru	28-Oct-21
+PP801828A	AV768000104051	Avis	Rentas y Servicios	Celebrate	Issued		Awaiting Payment	KUPFER	HERNAN	15419963CL6	0173692i	722.69	180.67	542.02	Rodriguez, Ignacio	Chile	28-Oct-21
+PP831931B	BU768000000325	Budget	Global Marketing & Sales	Global Marketing & Sales	Issued		Awaiting Payment	POLANCO	RUBEN	48195052MX3	0018502C	732	183	549	Sansores, Alberto	Mexico	28-Oct-21
+PP796258A	AV768000100521	Avis	eTravel Network E.I.R.L.	eTravel Network E.I.R.L.	Issued		Reported	SAM	PABLO	06043024PE1	0173880D	1934.41	580.32	1354.09	Campodónico, María Fernanda	Peru	28-Oct-21

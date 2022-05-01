@@ -17,7 +17,9 @@ class OrganizationFactory extends Factory
     public function definition()
     {
         return [
-            //
+            "organization_type_id" => 1,
+            "name" => $this->faker->name,
+            "state" => "Argentina"
         ];
     }
 }

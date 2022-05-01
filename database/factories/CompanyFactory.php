@@ -17,7 +17,9 @@ class CompanyFactory extends Factory
     public function definition()
     {
         return [
-            //
+            "name" => $this->faker->name,
+            "display_order" => 1,
+            "active" => true
         ];
     }
 }

@@ -13,6 +13,6 @@ Route::post('logout', [LoginController::class,'logout'])->name('logout');
 
 Route::middleware(["auth"])->group(function () {
     Route::get('/vouchers', [App\Http\Controllers\VoucherController::class, 'index'])->name('vouchers');
-    Route::post('/vouchers', [App\Http\Controllers\VoucherController::class, 'search'])->name('vouchers.search');
+    Route::get('/export', [App\Http\Controllers\VoucherController::class, 'export'])->name('export');
 });
 

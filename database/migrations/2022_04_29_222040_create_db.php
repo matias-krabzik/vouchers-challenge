@@ -17,13 +17,13 @@ return new class extends Migration
         $sql = base_path('database/migrations/tables.sql');
 
         $db = [
-            'username' => env('DB_USERNAME'),
-            'password' => env('DB_PASSWORD'),
+            'username' => "vouchers_challenge",
+            'password' => "vouchers_challenge",
             'host' => env('DB_HOST'),
-            'database' => env('DB_DATABASE')
+            'database' => "vouchers_challenge"
         ];
 
-        exec("mysql --user={$db['username']} --password={$db['password']} --host={$db['host']} --database {$db['database']} < $sql");
+        exec("mysql --user={$db['username']} --password={$db['password']} --host={$db['host']} --database={$db['database']} < $sql");
 
         Log::info('SQL Import Done');
     }

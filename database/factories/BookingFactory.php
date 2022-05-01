@@ -17,7 +17,17 @@ class BookingFactory extends Factory
     public function definition()
     {
         return [
-            //
+            "name" => $this->faker->name,
+            "last_name" => $this->faker->lastName,
+            "age" => $this->faker->numberBetween(18,68),
+            "residence_country_id" => 1,
+            "number" => 1,
+            "booking_status_id" => 1,
+            "pickup_office_id" => 2,
+            "dropoff_office_id" => 1,
+            "pickup_country_id" => 1,
+            "dropoff_country_id" => 1,
+            "company_id" => 1,
         ];
     }
 }
