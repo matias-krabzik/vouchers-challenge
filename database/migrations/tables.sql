@@ -69,12 +69,7 @@ CREATE TABLE IF NOT EXISTS `organizations` (
     `created_at` TIMESTAMP NULL DEFAULT NULL,
     `updated_at` TIMESTAMP NULL DEFAULT NULL,
     `deleted_at` TIMESTAMP NULL DEFAULT NULL,
-    PRIMARY KEY (`id`),
-    INDEX `organizations_organization_parent_id_foreign` (`organization_parent_id` ASC) VISIBLE,
-    CONSTRAINT `organizations_organization_parent_id_foreign`
-    FOREIGN KEY (`organization_parent_id`)
-    REFERENCES `organizations` (`id`)
-    ON DELETE CASCADE)
+    PRIMARY KEY (`id`))
     ENGINE = InnoDB
     AUTO_INCREMENT = 43
     DEFAULT CHARACTER SET = utf8mb4
@@ -143,16 +138,7 @@ CREATE TABLE IF NOT EXISTS `bookings` (
     `created_at` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
     `updated_at` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
     `deleted_at` TIMESTAMP NULL DEFAULT NULL,
-    PRIMARY KEY (`id`),
-    INDEX `CountryOfResidence` (`residence_country_id` ASC) VISIBLE,
-    INDEX `CodeLongPickUp` (`pickup_office_id` ASC) VISIBLE,
-    INDEX `CodeLongDropOff` (`dropoff_office_id` ASC) VISIBLE,
-    INDEX `CountryPickUp` (`pickup_country_id` ASC) VISIBLE,
-    INDEX `CountryDropOff` (`dropoff_country_id` ASC) VISIBLE,
-    INDEX `Company` (`company_id` ASC) VISIBLE,
-    INDEX `bookings_FK` (`user_id` ASC) VISIBLE,
-    INDEX `bookings_booking_status_id_IDX` USING BTREE (`booking_status_id`) VISIBLE,
-    INDEX `organization_id` (`organization_id` ASC) VISIBLE)
+    PRIMARY KEY (`id`))
     ENGINE = InnoDB
     AUTO_INCREMENT = 4014
     DEFAULT CHARACTER SET = utf8mb3;
@@ -202,27 +188,7 @@ CREATE TABLE IF NOT EXISTS `payment_files` (
     `created_at` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
     `updated_at` TIMESTAMP NULL DEFAULT NULL,
     `deleted_at` TIMESTAMP NULL DEFAULT NULL,
-    PRIMARY KEY (`id`),
-    INDEX `fk_payment_files_payment_file_status1_idx` (`payment_file_status_id` ASC) VISIBLE,
-    INDEX `fk_payment_files_users1_idx` (`user_id` ASC) VISIBLE,
-    INDEX `fk_payment_files_organizations1_idx` (`organization_id` ASC) VISIBLE,
-    INDEX `fk_payment_files_companies1_idx` (`company_id` ASC) VISIBLE,
-    INDEX `fk_payment_files_payment_file_batch_files1_idx` (`batch_file_id` ASC) VISIBLE,
-    CONSTRAINT `fk_payment_files_companies1`
-    FOREIGN KEY (`company_id`)
-    REFERENCES `companies` (`id`),
-    CONSTRAINT `fk_payment_files_organizations1`
-    FOREIGN KEY (`organization_id`)
-    REFERENCES `organizations` (`id`),
-    CONSTRAINT `fk_payment_files_payment_file_batch_files1`
-    FOREIGN KEY (`batch_file_id`)
-    REFERENCES `payment_file_batch_files` (`id`),
-    CONSTRAINT `fk_payment_files_payment_file_status1`
-    FOREIGN KEY (`payment_file_status_id`)
-    REFERENCES `payment_file_status` (`id`),
-    CONSTRAINT `fk_payment_files_users1`
-    FOREIGN KEY (`user_id`)
-    REFERENCES `users` (`id`))
+    PRIMARY KEY (`id`))
     ENGINE = InnoDB
     AUTO_INCREMENT = 142
     DEFAULT CHARACTER SET = utf8mb3;
@@ -283,38 +249,7 @@ CREATE TABLE IF NOT EXISTS `vouchers` (
     `created_at` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
     `updated_at` TIMESTAMP NULL DEFAULT NULL,
     `deleted_at` TIMESTAMP NULL DEFAULT NULL,
-    PRIMARY KEY (`id`),
-    INDEX `fk_vouchers_bookings1_idx` (`booking_id` ASC) VISIBLE,
-    INDEX `fk_vouchers_users1_idx` (`user_id` ASC) VISIBLE,
-    INDEX `fk_vouchers_companies1_idx` (`company_id` ASC) VISIBLE,
-    INDEX `fk_vouchers_voucher_status1_idx` (`voucher_status_id` ASC) VISIBLE,
-    INDEX `fk_vouchers_payment_files1_idx` (`payment_file_id` ASC) VISIBLE,
-    INDEX `fk_vouchers_organizations1_idx` (`gsa_organization_id` ASC) VISIBLE,
-    INDEX `vouchers_number_IDX` USING BTREE (`number`) VISIBLE,
-    INDEX `fk_vouchers_organizations2_idx` (`organization_id` ASC) VISIBLE,
-    CONSTRAINT `fk_vouchers_bookings1`
-    FOREIGN KEY (`booking_id`)
-    REFERENCES `bookings` (`id`),
-    CONSTRAINT `fk_vouchers_companies1`
-    FOREIGN KEY (`company_id`)
-    REFERENCES `companies` (`id`),
-    CONSTRAINT `fk_vouchers_organizations1`
-    FOREIGN KEY (`gsa_organization_id`)
-    REFERENCES `organizations` (`id`),
-    CONSTRAINT `fk_vouchers_payment_files1`
-    FOREIGN KEY (`payment_file_id`)
-    REFERENCES `payment_files` (`id`),
-    CONSTRAINT `fk_vouchers_users1`
-    FOREIGN KEY (`user_id`)
-    REFERENCES `users` (`id`),
-    CONSTRAINT `fk_vouchers_voucher_status1`
-    FOREIGN KEY (`voucher_status_id`)
-    REFERENCES `voucher_status` (`id`),
-    CONSTRAINT `fk_vouchers_organizations2`
-    FOREIGN KEY (`organization_id`)
-    REFERENCES `organizations` (`id`)
-                                ON DELETE NO ACTION
-                                ON UPDATE NO ACTION)
+    PRIMARY KEY (`id`))
     ENGINE = InnoDB
     AUTO_INCREMENT = 1757
     DEFAULT CHARACTER SET = utf8mb3;
