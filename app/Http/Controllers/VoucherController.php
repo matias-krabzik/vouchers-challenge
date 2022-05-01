@@ -16,7 +16,7 @@ class VoucherController extends Controller
             $request->input("create_date_from"),
             $request->input("create_date_to"),
             $request->input("brand", -1),
-            $request->input("order_col", "voucher_num"),
+            $request->input("order_col", "voucher"),
             $request->input("order", "desc"),
             true
         );
@@ -26,7 +26,7 @@ class VoucherController extends Controller
 
         return view('voucher.list')->with("vouchers", $vouchers)
             ->with("brands", $brands)
-            ->with("order_col", $request->input("order_col", "voucher_num"))
+            ->with("order_col", $request->input("order_col", "voucher"))
             ->with("order", $request->input("order", "desc"));
     }
 
@@ -38,7 +38,7 @@ class VoucherController extends Controller
             session()->getOldInput("create_date_from"),
             session()->getOldInput("create_date_to"),
             session()->getOldInput("brand", -1),
-            session()->getOldInput("order_col", "voucher_num"),
+            session()->getOldInput("order_col", "voucher"),
             session()->getOldInput("order", "desc"),
             false
         );
@@ -153,9 +153,9 @@ class VoucherController extends Controller
 
         // Ordenamos por...
         if ($order_col == "voucher") $order_col = 'vouchers.number';
-        if ($order_col == "account_name") $order_col = 'gsao.name';
+        if ($order_col == "account") $order_col = 'gsao.name';
         if ($order_col == "brand") $order_col = 'companies.id';
-        if ($order_col == "create_date_from" || $order_col == "create_date_to") $order_col = 'vouchers.issue_date';
+        if ($order_col == "issue_date") $order_col = 'vouchers.issue_date';
         $query->orderBy($order_col, $order);
 
         return $paginated ? $query->paginate(10): $query->get();

@@ -11,7 +11,7 @@
         <div class="card-body">
             <form id="filter-form" role="form" action="{{ route("vouchers") }}" method="GET" >
                 @csrf
-                <input id="order_col" type="hidden" name="order_col" value="{{ old('order_col', 'voucher_num') }}">
+                <input id="order_col" type="hidden" name="order_col" value="{{ old('order_col', 'voucher') }}">
                 <input id="order" type="hidden" name="order" value="{{ old('order', 'desc') }}">
                 <div class="row row-cols-lg-4 row-cols-sm-1 row-cols-md-2">
                     <div class="col mt-3">
@@ -177,9 +177,9 @@
                 <table id="vouchers-table" class="table table-striped">
                     <thead>
                         <tr>
-                            <th class="text-nowrap" onclick="orderBy('voucher_num')">
+                            <th class="text-nowrap" onclick="orderBy('voucher')">
                                 {{ __('vouchers.list.table.voucher') }}
-                                @if($order_col == 'voucher_num')
+                                @if($order_col == 'voucher')
                                     @if($order == 'asc') &#8593 @else &#8595 @endif
                                 @endif
                             </th>
