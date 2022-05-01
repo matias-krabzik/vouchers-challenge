@@ -13,6 +13,7 @@
    1. Es importante que este agregada a las variables de entorno mysql para que el seed funcione.
 7. Ejecutar <code>php artisan serve</code>
 8. entrar a la Url http://localhost:8000.
+9. Utilizar el usaurio <code>example@mail.com</code> y la contraseña <code>secret1234</code>.
 
 #### Como se resolvío
 
